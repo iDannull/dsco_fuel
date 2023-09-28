@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1145915149627166781/1156860638799347724/image.png" />
-</p>
 <p align='center'><b><a href="https://www.youtube.com/watch?v=tQ0cL9qGqbA">Video de Vista Previa</a></b>
 
 ## Características:
@@ -10,7 +7,8 @@
 * Compra y recarga de bidones
 
 ## ¿Necesitas ayuda?
-[![¿Necesitas ayuda?](https://media.discordapp.net/attachments/1145915149627166781/1156860638799347724/image.png)](https://discord.gg/5UUJ2ffVY4)
+## ¿Necesitas ayuda?
+Discord: https://discord.gg/5UUJ2ffVY4
 
 <a href="https://www.youtube.com/watch?v=tQ0cL9qGqbA"><img src="https://cdn.discordapp.com/attachments/1143757665374318752/1157084152949125280/SPOILER_image.png" /></a>
 
